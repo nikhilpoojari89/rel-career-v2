@@ -75,6 +75,7 @@
                                                 </div>
                                                 <div class="form-row">
                                                     <div class="form-group col-md-6">
+                                                    <button type="button" class="btn btn-default" data-toggle="tooltip" data-placement="top" title="Tooltip on top">Tooltip on top</button>
                                                         <label for="inputHiringBranch" class="title-color font-smooth font-16 font-weight-bold letter-spacing-1">Hiring Branch<span class="text-danger">*</span><i class="fas fa-info-circle" data-toggle="tooltip" data-placement="top" title="Indicates the branch candidates will be hired in."></i></label>
                                                         <select id="inputHiringBranch" class="form-control is-invalid" required>
                                                             <option selected>Select Hiring Branch</option>
